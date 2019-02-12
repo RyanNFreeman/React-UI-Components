@@ -1,0 +1,29 @@
+.white-btns {
+    display: flex;
+    flex-wrap: wrap;
+    width: 75%;
+}
+
+.action {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 75px;
+    background: white;
+    font-size: 3rem;
+    border: 1px solid grey;
+    color: black;
+}
+
+.number-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 32%;
+    height: 75px;
+    background: white;
+    font-size: 3rem;
+    border: 1px solid grey;
+    color: black;
+}
