@@ -1,8 +1,8 @@
-.wrapper {
-    display: flex;
-    flex-wrap: wrap;
+.calculator-wrapper {
+    min-height: 600px;
+    width: 400px;
     margin: 0 auto;
-    width: 500px;
-    background: grey;
-
-}
+    border: 1px solid #e3e3e3;
+    font-family: sans-serif;
+  }
+  
